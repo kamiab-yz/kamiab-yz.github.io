@@ -23,7 +23,7 @@ repository               : "kamiab-yz/kamiab-yz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_profile.png"
   name             : "Kamyab Yazdipaz"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student @ Robotics"
