@@ -10,9 +10,9 @@ redirect_from:
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
-      I'm a PhD student in Mechanical Engineering at <a href="https://www.wsu.edu">Washington State University</a> and part of the <a href="https://labs.wsu.edu/siaslab/">SIAS Lab</a>, advised by <a href="https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/">Dr. Mehdi Hosseinzadeh</a>. 
+      I'm a PhD student in Mechanical Engineering (Robotics) at <a href="https://www.wsu.edu">Washington State University</a> and part of the <a href="https://labs.wsu.edu/siaslab/">SIAS Lab</a>, advised by <a href="https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/">Dr. Mehdi Hosseinzadeh</a>. 
       <br><br>
-      <!-- My academic journey focuses on developing control theories, implementing them on real robots, and exploring robot interactions with humans. I am particularly interested in leveraging tools from applied analysis and partial differential equations to address challenges in real-world autonomy, and validating these methods on hardware across various robotic platforms (e.g., mobile robots, quadrupeds, and drones). Recently, I have also been working on human-robot interaction challenges, focusing on the safety and efficiency of both the robot and the interaction itself. -->
+      My research lies at the  intersection of robot perception, computer vision, and human–robot interaction. My work focuses on enabling intelligent robotic systems to reason about human behavior, perceptual awareness, and intent through multimodal sensing and learning-based methods. I am particularly interested in integrating vision–language models, probabilistic reasoning, and motion planning to support robust mobile robot navigation and decision-making in complex, cluttered environments, enabling safe, adaptive, and socially-aware robot behavior in human-centered settings.
     <!-- </td>
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Hierarchical_Control_Structure.png" alt="Hierarchical Control Structure" style="width:100%; border-radius:10px;">
