@@ -10,7 +10,7 @@ redirect_from:
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:55%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
-      I'm a PhD student in Mechanical Engineering (Robotics) at <a href="https://www.wsu.edu">Washington State University</a> and part of the <a href="https://labs.wsu.edu/siaslab/">SIAS Lab</a>, advised by <a href="https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/">Dr. Mehdi Hosseinzadeh</a>. 
+      I'm a PhD student in Mechanical Engineering (Robotics) at <a href="https://www.wsu.edu">Washington State University</a>, conducting research in the <a href="https://labs.wsu.edu/siaslab/">SIAS Lab</a>, under the supervision of <a href="https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/">Dr. Mehdi Hosseinzadeh</a>. 
       <br><br>
       My research lies at the  intersection of robot perception, computer vision, and human–robot interaction. My work focuses on enabling intelligent robotic systems to reason about human behavior, perceptual awareness, and intent through multimodal sensing and learning-based methods. I am particularly interested in integrating vision–language models, probabilistic reasoning, and motion planning to support robust mobile robot navigation and decision-making in complex, cluttered environments, enabling safe, adaptive, and socially-aware robot behavior in human-centered settings.
     <!-- </td>
