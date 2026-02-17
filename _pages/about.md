@@ -37,7 +37,7 @@ redirect_from:
   <tr>
     <td style="width:75%; vertical-align:top; border:none; padding-bottom:15px;">
       <strong>Iran University of Science and Technology (IUST)</strong> <br>
-      Master of Science in Mechanical Engineering (Mechatronics)
+      Master of Science in Mechanical Engineering 
     </td>
     <td style="width:25%; vertical-align:top; border:none; text-align:right; color:grey;">
       2020 – 2023
@@ -47,7 +47,7 @@ redirect_from:
   <tr>
     <td style="width:75%; vertical-align:top; border:none; padding-bottom:15px;">
       <strong>Amirkabir University of Technology (AUT)</strong> <br>
-      Bachelor of Science in Mechanical Engineering (Manufacturing)
+      Bachelor of Science in Mechanical Engineering
     </td>
     <td style="width:25%; vertical-align:top; border:none; text-align:right; color:grey;">
       2015 – 2020
