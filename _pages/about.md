@@ -23,6 +23,47 @@ redirect_from:
 
 ---
 
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 10px;">Education</h2>
+<table style="width:100%; border:none; border-collapse:collapse; margin-top:20px;">
+  <tr>
+    <td style="width:75%; vertical-align:top; border:none; padding-bottom:15px;">
+      <strong>Washington State University (WSU)</strong>  <br>
+      PhD in Mechanical Engineering  <br>
+      <i>GPA: 4.0/4.0</i> 
+    </td>
+    <td style="width:25%; vertical-align:top; border:none; text-align:right; color:grey;">
+      2025 – Present [cite: 16] <br>
+      Pullman, USA [cite: 16]
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:75%; vertical-align:top; border:none; padding-bottom:15px;">
+      <strong>Iran University of Science and Technology (IUST)</strong> [cite: 4] <br>
+      Master of Science in Mechanical Engineering (Mechatronics) [cite: 4] <br>
+      <i>GPA: 17.93/20.0 (~3.7/4.0) | Ranked 2nd in program</i> [cite: 4, 20]
+    </td>
+    <td style="width:25%; vertical-align:top; border:none; text-align:right; color:grey;">
+      2020 – 2023 [cite: 17] <br>
+      Tehran, Iran [cite: 17]
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:75%; vertical-align:top; border:none; padding-bottom:15px;">
+      <strong>Amirkabir University of Technology (AUT)</strong> [cite: 5] <br>
+      Bachelor of Science in Mechanical Engineering (Manufacturing) [cite: 5] <br>
+      <i>GPA: 15.5/20.0 (~3.0/4.0)</i> [cite: 6]
+    </td>
+    <td style="width:25%; vertical-align:top; border:none; text-align:right; color:grey;">
+      2015 – 2020 [cite: 18] <br>
+      Tehran, Iran [cite: 18]
+    </td>
+  </tr>
+</table>
+
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
