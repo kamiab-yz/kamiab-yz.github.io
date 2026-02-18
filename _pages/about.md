@@ -57,14 +57,14 @@ redirect_from:
 
 ---
 
-## Research:
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 10px;">Research</h2>
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
       <h3><u>Safe Robot Action Planning under Human Behavioral Uncertainty with Probabilistic and Vision–Language Reasoning </u></h3>
       <br>
-      K, Yazdipaz, <b>M. Amiri</b>, M. Hosseinzadeh
+      <b>K, Yazdipaz</b>, M. Amiri, M. Hosseinzadeh
       <br>
       <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Submitted)</i>, 2026
       <br>
