@@ -81,7 +81,7 @@ redirect_from:
 </table>
 
 
-<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 10px;">Research Highlight</h2>
+---
 <table style="width:100%; border:none; border-collapse:collapse; margin-top:20px;">
   <tr>
     <td style="width:60%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
