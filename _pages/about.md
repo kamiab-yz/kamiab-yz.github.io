@@ -74,7 +74,7 @@ redirect_from:
    
 </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/Cooperative Human Aware and Responsive (4) (1).gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <img src="images/HRI_video.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Experimental data; CASE I: Aware/Responsive, CASE II: Unaware/unresponsive, CASE III: Aware/unresponsive,CASE IV: Initially Unaware/Responsive.</i></p>
     </td>
   </tr>
