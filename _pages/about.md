@@ -82,18 +82,23 @@ redirect_from:
 
 
 ---
-<table style="width:100%; border:none; border-collapse:collapse; margin-top:20px;">
+<table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:60%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
-      <strong>Robust and Efficient Phase Estimation in Legged Robots via Signal Imaging and Deep Neural Networks</strong> 
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>Robust and Efficient Phase Estimation in Legged Robots via Signal Imaging and Deep Neural Networks</u></h3>
+      <br>
+      <b>K. Yazdipaz</b>, N. Kohli, S.A. Golestaneh, M. Shahbazi
+      <br>
+      <i>IEEE Access</i>, 2025
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/YOUR_PAPER_ID">[paper]</a> | 
+      <a href="https://www.youtube.com/embed/YOUR_VIDEO_ID">[video]</a>
       <br><br>
-      A robust and real-time method for phase estimation in legged robots is proposed using signal imaging and lightweight deep neural networks. Time-series data from IMUs and joint encoders are transformed into informative phase images through techniques such as stacked channel imaging and recurrence plots, enabling accurate detection of stance and flight phases without relying on fragile force sensors.  Experimental validation on a robotic leg platform and independent datasets demonstrates high accuracy and strong generalization, highlighting the method’s potential for reliable locomotion control in complex and uncertain environments. 
-      <br><br>
-      <a href="[https://ieeexplore.ieee.org/document/YOUR_PAPER_ID](https://ieeexplore.ieee.org/abstract/document/10916661)" style="text-decoration:none; font-weight:bold; color:#a6192e;">[Paper Link]</a> 
+      A robust and real-time method for phase estimation in legged robots is proposed using signal imaging and lightweight deep neural networks. Time-series data from IMUs and joint encoders are transformed into informative phase images through techniques such as stacked channel imaging and recurrence plots, enabling accurate detection of stance and flight phases without relying on fragile force sensors.
     </td>
-    <td style="width:40%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/phase_estimation.gif" alt="Phase Estimation Demo" style="width:100%; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Real-time Phase Estimation Visualization</i></p>
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/phase_estimation.gif" alt="Robust Phase Estimation" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Phase estimation results: transforming IMU and encoder signals into image representations for deep learning-based gait classification.</i></p>
     </td>
   </tr>
 </table>
