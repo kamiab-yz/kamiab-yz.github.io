@@ -118,13 +118,12 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
       <br>
       <i>IEEE Access</i>, 2025
       <br>
-      <a href="https://ieeexplore.ieee.org/document/YOUR_PAPER_ID">[paper]</a> | 
-      <a href="https://www.youtube.com/embed/YOUR_VIDEO_ID">[video]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10916661/">[paper]</a> | 
       <br><br>
       A robust and real-time method for phase estimation in legged robots is proposed using signal imaging and lightweight deep neural networks. Time-series data from IMUs and joint encoders are transformed into informative phase images through techniques such as stacked channel imaging and recurrence plots, enabling accurate detection of stance and flight phases without relying on fragile force sensors.
     </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
-      <img src="images/phase_estimation.gif" alt="Robust Phase Estimation" style="width:100%; border-radius:10px;">
+      <img src="images/phase_estimation.png" alt="Robust Phase Estimation" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Phase estimation results: transforming IMU and encoder signals into image representations for deep learning-based gait classification.</i></p>
     </td>
   </tr>
