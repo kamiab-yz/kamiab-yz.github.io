@@ -80,6 +80,33 @@ redirect_from:
   </tr>
 </table>
 
+---
+
+
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>Action Planning for Autonomous Vehicles with Hierarchical Reasoning in Adversarial Traffic Interactions </u></h3>
+      <br>
+      M. Amiri, K, <b>Yazdipaz</b>, M. Hosseinzadeh
+      <br>
+      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Under Review)</i>, 2026
+      <br>
+      <a href="https://www.youtube.com/embed/d40n6mHTtL8?si=h75v2tajXTtHBcn5">[video]</a>
+      <br><br>
+      The proposed method addresses the challenge of autonomous vehicle (AV) navigation in adversarial scenarios where Human-Driven Vehicles (HDVs) may exhibit non-cooperative or unaware
+behaviors, such as forced cut-ins and right-of-way violations. We
+propose a game-theoretic planner based on the Level-k reasoning
+framework to distinguish between adversarial agents (Level-0) and strategically aware agents (Level-1). By incorporating behavior-driven danger signaling and a recursive Bayesian belief update, the AV can dynamically adapt its trajectory and signaling strategy to ensure safety and efficiency in complex, non-cooperative road interactions. 
+   
+</td>
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/IROSA2026.gif" alt="Dynamic Embedding Optimization" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> Experimental data; Case a/b/c.3: Awareness Update.</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 <table style="width:100%; border:none; border-collapse:collapse;">
