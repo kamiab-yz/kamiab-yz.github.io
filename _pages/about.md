@@ -117,7 +117,7 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
       <br>
       X. Xiao, Z. Xu, S. A. Ghani, A. Datar, D. Song, P. Stone, A. Mazen, <b>K. Yazdipaz</b>, I. Mateyaunga, M. Faied, M. Krishnan, Y. Lu, T. Xu, N. Mohammad, W. Kim, J. Reasoner, R. Chandra, N. Bezzo 
       <br>
-      <i>IEEE Robotics & Automation Magazine</i>, 2026 [cite: 14]
+      <i>IEEE Robotics & Automation Magazine</i>, 2026
       <br>
       <a href="https://ieeexplore.ieee.org/document/11456143">[paper]</a>
       <br><br>
@@ -143,7 +143,7 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
       <br>
       <i>IEEE Access</i>, 2025
       <br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10916661/">[paper]</a> | 
+      <a href="https://ieeexplore.ieee.org/abstract/document/10916661/">[paper]</a>  
       <br><br>
       A robust and real-time method for phase estimation in legged robots is proposed using signal imaging and lightweight deep neural networks. Time-series data from IMUs and joint encoders are transformed into informative phase images through techniques such as stacked channel imaging and recurrence plots, enabling accurate detection of stance and flight phases without relying on fragile force sensors.
     </td>
