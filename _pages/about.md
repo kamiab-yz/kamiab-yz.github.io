@@ -55,7 +55,7 @@ redirect_from:
   </tr>
 </table>
 
----
+
 
 <h2 style="border-bottom: 1px solid #ddd; padding-bottom: 10px;">Research</h2>
 
@@ -80,7 +80,7 @@ redirect_from:
   </tr>
 </table>
 
----
+
 
 
 
@@ -108,7 +108,7 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
   </tr>
 </table>
 
----
+
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
