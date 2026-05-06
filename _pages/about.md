@@ -109,6 +109,31 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
 </table>
 
 
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
+      <h3><u>Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned From the Fourth BARN Challenge at ICRA 2025 </u></h3>
+      <br>
+      X. Xiao, Z. Xu, S. A. Ghani, A. Datar, D. Song, P. Stone, A. Mazen, <b>K. Yazdipaz</b>, I. Mateyaunga, M. Faied, M. Krishnan, Y. Lu, T. Xu, N. Mohammad, W. Kim, J. Reasoner, R. Chandra, N. Bezzo 
+      <br>
+      <i>IEEE Robotics & Automation Magazine</i>, 2026 [cite: 14]
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/11456143">[paper]</a>
+      <br><br>
+      In the Fourth BARN Challenge at ICRA 2025, our team, the Robotics and Remote Sensing Lab (RRSL), secured first place in the physical competition. We achieved this by successfully completing the most trials (7 out of 9), including finishing all five back-to-back trials in the first obstacle course without needing any fine-tuning. Our winning approach utilized a novel fuzzy-based navigation algorithm termed the Search-Smooth-Safeguard Fuzzy Inference System Vector Field Histogram (S<sup>3</sup>-FISVFH). This framework enhances standard FISVFH by systematically optimizing fuzzy parameters and integrating three critical components: a lookahead <i>Search</i> mechanism to foresee and avoid local traps, a temporal <i>Smooth</i> filter to mitigate oscillatory behavior, and a <i>Safeguard</i> protocol that uses a "safety bubble" to issue emergency stop and reverse commands when facing imminent collisions.
+    </td>
+    <td style="width:50%; vertical-align:top; border:none; text-align:center;">
+      <img src="images/fisvfh.gif" alt="S3-FISVFH Algorithm Navigation" style="width:100%; border-radius:10px;">
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> S³-FISVFH algorithm evaluating possible paths to avoid traps and dynamic obstacles. [cite: 203]</i></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:50%; vertical-align:top; border:none; padding-right:20px; text-align: justify;">
