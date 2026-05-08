@@ -22,11 +22,15 @@ redirect_from:
 </table>
 
 ---
-<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 10px;">Education</h2>
-<table style="width:100%; border:none; border-collapse:collapse; margin-top:20px;">
+<!-- Increased heading size to 28px -->
+<h2 style="border-bottom: 1px solid #ddd; padding-bottom: 10px; font-size: 28px;">Education</h2>
+
+<!-- Added font-size: 18px to the whole table for a larger baseline -->
+<table style="width:100%; border:none; border-collapse:collapse; margin-top:20px; font-size: 18px;">
   <tr>
     <td style="width:75%; vertical-align:top; border:none; padding-bottom:15px;">
-      <strong>Washington State University (WSU)</strong> <br>
+      <!-- Added font-size: 20px specifically to the university name -->
+      <strong style="font-size: 20px;">Washington State University (WSU)</strong> <br>
       PhD in Mechanical Engineering
     </td>
     <td style="width:25%; vertical-align:top; border:none; text-align:right; color:grey;">
@@ -36,7 +40,7 @@ redirect_from:
 
   <tr>
     <td style="width:75%; vertical-align:top; border:none; padding-bottom:15px;">
-      <strong>Iran University of Science and Technology (IUST)</strong> <br>
+      <strong style="font-size: 20px;">Iran University of Science and Technology (IUST)</strong> <br>
       Master of Science in Mechanical Engineering 
     </td>
     <td style="width:25%; vertical-align:top; border:none; text-align:right; color:grey;">
@@ -46,7 +50,7 @@ redirect_from:
 
   <tr>
     <td style="width:75%; vertical-align:top; border:none; padding-bottom:15px;">
-      <strong>Amirkabir University of Technology (AUT)</strong> <br>
+      <strong style="font-size: 20px;">Amirkabir University of Technology (AUT)</strong> <br>
       Bachelor of Science in Mechanical Engineering
     </td>
     <td style="width:25%; vertical-align:top; border:none; text-align:right; color:grey;">
