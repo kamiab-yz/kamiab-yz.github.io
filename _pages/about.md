@@ -120,13 +120,13 @@ framework to distinguish between adversarial agents (Level-0) and strategically 
       <br>
       <i>IEEE Robotics & Automation Magazine</i>, 2026
       <br>
-      <a href="https://ieeexplore.ieee.org/document/11456143">[paper]</a>
+      <a href="https://ieeexplore.ieee.org/document/11456143">[paper]</a>&nbsp;&nbsp;<a href="https://github.com/MazenMTULab/the-barn-challenge">[code]</a>
       <br><br>
       In the Fourth BARN Challenge at ICRA 2025, our team, the Robotics and Remote Sensing Lab (RRSL), secured first place in the physical competition. We achieved this by successfully completing the most trials (7 out of 9), including finishing all five back-to-back trials in the first obstacle course without needing any fine-tuning. Our winning approach utilized a novel fuzzy-based navigation algorithm termed the Search-Smooth-Safeguard Fuzzy Inference System Vector Field Histogram (S<sup>3</sup>-FISVFH). This framework enhances standard FISVFH by systematically optimizing fuzzy parameters and integrating three critical components: a lookahead <i>Search</i> mechanism to foresee and avoid local traps, a temporal <i>Smooth</i> filter to mitigate oscillatory behavior, and a <i>Safeguard</i> protocol that uses a "safety bubble" to issue emergency stop and reverse commands when facing imminent collisions.
     </td>
     <td style="width:50%; vertical-align:top; border:none; text-align:center;">
       <img src="images/fisvfh.gif" alt="S3-FISVFH Algorithm Navigation" style="width:100%; border-radius:10px;">
-      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> S³-FISVFH algorithm evaluating possible paths to avoid traps and dynamic obstacles. [cite: 203]</i></p>
+      <p style="font-size:0.8em; color:grey; margin-top:10px;"><i> S³-FISVFH algorithm evaluating possible paths to avoid traps and dynamic obstacles.</i></p>
     </td>
   </tr>
 </table>
