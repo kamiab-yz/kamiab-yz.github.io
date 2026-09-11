@@ -36,6 +36,8 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'publications' and page.status %}
+          <p><i>{{ page.status }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -71,6 +73,14 @@ layout: default
           <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.bibtexurl %}
           <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+        {% endif %}
+
+        {% if page.videourl or page.codeurl %}
+          <p style="font-size: smaller">
+            {% if page.videourl %}<a href="{{ page.videourl }}">Watch Video</a>{% endif %}
+            {% if page.videourl and page.codeurl %} | {% endif %}
+            {% if page.codeurl %}<a href="{{ page.codeurl }}">View Code</a>{% endif %}
+          </p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
