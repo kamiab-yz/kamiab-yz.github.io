@@ -13,11 +13,13 @@ redirect_from:
       I'm a PhD student in Mechanical Engineering (Robotics) at <a href="https://www.wsu.edu">Washington State University</a>, conducting research in the <a href="https://labs.wsu.edu/siaslab/">SIAS Lab</a>, under the supervision of <a href="https://mme.wsu.edu/mme-personnel/wsu-profile/mehdi.hosseinzadeh/">Dr. Mehdi Hosseinzadeh</a>. 
       <br><br>
       My research lies at the  intersection of robot perception, computer vision, and human–robot interaction. My work focuses on enabling intelligent robotic systems to reason about human behavior, perceptual awareness, and intent through multimodal sensing and learning-based methods. I am particularly interested in integrating vision–language models, probabilistic reasoning, and motion planning to support robust mobile robot navigation and decision-making in complex, cluttered environments, enabling safe, adaptive, and socially-aware robot behavior in human-centered settings.
-    <!-- </td>
+    </td>
+    <!--
     <td style="width:45%; vertical-align:top; border:none; text-align:center;">
       <img src="images/Hierarchical_Control_Structure.png" alt="Hierarchical Control Structure" style="width:100%; border-radius:10px;">
       <p style="font-size:0.8em; color:grey; margin-top:10px;"><i>Hierarchical Control Structure</i></p>
-    </td> -->
+    </td>
+    -->
   </tr>
 </table>
 
@@ -67,7 +69,7 @@ redirect_from:
       <br>
       <b>K, Yazdipaz</b>, M. Amiri, M. Hosseinzadeh
       <br>
-      <i>Submitted to Advanced Intelligent Systems (under review)</i>, 2026
+      <i>Under Review</i>, 2026
       <br>
       <a href="https://www.youtube.com/embed/g0OT-_c3K9Y?si=TnsMI1Sx9w_7QzYI">[video]</a>
       <br><br>
@@ -92,7 +94,7 @@ redirect_from:
       <br>
       M. Amiri, K, <b>Yazdipaz</b>, M. Hosseinzadeh
       <br>
-      <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Under Review)</i>, 2026
+      <i>Under Review</i>, 2026
       <br>
       <a href="https://www.youtube.com/embed/d40n6mHTtL8?si=h75v2tajXTtHBcn5">[video]</a>
       <br><br>
