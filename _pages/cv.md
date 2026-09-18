@@ -34,7 +34,6 @@ redirect_from:
 ## Honors
 
 - **1st place**, [BARN Challenge 2025](https://ieeexplore.ieee.org/document/11456143), IEEE Conference on Robotics and Automation (ICRA), Atlanta, USA.
-- **Ranked 2nd** among all the master students in the Mechanical Engineering program at IUST, Iran.
 - **1st place**, RoboCupJunior Soccer Challenges 2017 Competitions, Nagoya, Japan.
 - **1st place**, RoboCupJunior Soccer Challenges 2017 Iran Open, Tehran, Iran.
 
@@ -50,7 +49,7 @@ redirect_from:
 
 ## Work Experience
 
-### Research Assistant/Graduate Summer Hourly Research Work
+### Research Assistant
 
 **SIAS Lab** — WSU, Pullman · *Aug. 2025–Now*
 
